@@ -1,3 +1,6 @@
+#este proyecto tiene la intención de trabajar con código más largo; módulos populares; input de usuario;
+#operator overload, manejo de multiples variables y datatypes
+
 import random
 
 MAX_LINES = 3
