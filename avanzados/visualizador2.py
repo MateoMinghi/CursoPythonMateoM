@@ -1,3 +1,6 @@
+#este proyecto tiene la intención de trabajar con código más largo; módulos populares; implementación en PyGame;
+#conceptos de algorítmica; manejo de diferentes inputs de usuario y dunder methods
+
 import pygame
 import math
 from queue import PriorityQueue
